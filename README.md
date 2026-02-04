@@ -1,107 +1,84 @@
-<div align="center">
-  
-# Hey, I'm Kanishka 👋
+# 👩‍💻 Welcome to My GitHub! 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=BTech+Student;Security+Enthusiast;Coder;Gamer" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-## About Me
-
-```python
-class Me:
-    def __init__(self):
-        self.university = "Sushant University, Gurugram"
-        self.degree = "BTech"
-        self.interests = ["Cybersecurity", "Coding", "Esports"]
-        
-    def current_status(self):
-        return "Building secure systems by day, gaming by night"
-```
-
-- 🎓 BTech student at **Sushant University, Gurugram**
-- 🔐 Exploring **Cybersecurity & Ethical Hacking**
-- 💻 Love writing clean, efficient code
-- 🎮 Competitive gamer in my downtime
+Hi there! 👋  
+I'm **[Your Name]**, a passionate **B.Tech student** at **Sushant University**, Gurugram.  
+I’m a curious **hacker**, dedicated **coder**, and an enthusiastic **esports lover** who thrives on solving challenges and exploring new technologies. 💻🎮  
 
 ---
 
-## Tech Stack
+## 🌟 About Me
 
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**Security**
-
-![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
+- 🎓 **Education**: Pursuing **Bachelor of Technology (B.Tech)**  
+- 💡 **Interests**:  
+   - 🛡️ Cybersecurity & Ethical Hacking  
+   - 💻 Full-Stack Development  
+   - 🎮 Competitive Esports  
+- 🌍 **Location**: Gurugram, India  
+- 🏆 **Motto**: "Keep learning, keep growing!"
 
 ---
 
-## GitHub Stats
+## 🛠️ Tech Stack
+
+Here’s what I work with:
+
+- **Languages**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+
+- **Frameworks & Libraries**:  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
+
+- **Tools & Platforms**:  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)  
+
+- **Hacking Skills**:  
+  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)  
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
+
+---
+
+## 🏆 Esports Journey
+
+🎮 **Esports Enthusiast**: I’m passionate about competitive gaming and love the thrill of esports tournaments.  
+- I enjoy games that require strategy, quick thinking, and teamwork.  
+- Favorite genres: FPS, MOBA, and action-packed RPGs!  
+
+---
+
+## 💡 Fun Facts
+
+- 🌌 I’m fascinated by **cybersecurity and ethical hacking** – I love exploring vulnerabilities (ethically, of course!).
+- 🖋️ I believe coding is like art – **every line tells a story**.
+- 🎯 My dream is to combine my love for **tech and esports** to create something impactful.
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=9CA3AF&bg_color=0F172A&hide_title=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=6366F1&text_color=9CA3AF&bg_color=0F172A&hide_title=true" />
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0F172A&stroke=1E293B&ring=6366F1&fire=F59E0B&currStreakNum=F8FAFC&sideNums=9CA3AF&currStreakLabel=6366F1&sideLabels=64748B&dates=64748B)](https://git.io/streak-stats)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide=prs,issues)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&langs_count=6)
 
 </div>
 
 ---
 
-## Currently
+## 📫 Connect with Me
 
-```
-→ Learning penetration testing
-→ Building security tools
-→ Contributing to open source
-→ Grinding ranks in Valorant
-```
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
-
-</div>
+Let’s connect and build something amazing together! 😊  
+- 💌 **Email**: [Your Email Address]  
+- 🎮 **Discord**: [Your Discord Handle]  
+- 🌐 **Portfolio**: [Your Portfolio Link]  
+- 🐦 **Twitter**: [Your Twitter Handle]  
 
 ---
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6366F1&style=flat-square&label=visitors)
-
-*"Break it. Fix it. Secure it."*
-
-</div>
+### 🚀 "Dream big, work harder, and make it happen!"
