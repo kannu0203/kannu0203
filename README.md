@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Kanishka 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=BTech+Student;Security+Enthusiast;Coder;Gamer" alt="Typing SVG" />
 
