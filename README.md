@@ -1,8 +1,8 @@
 # 👩‍💻 Welcome to My GitHub! 🚀
 
 Hi there! 👋  
-I'm **[Your Name]**, a passionate **B.Tech student** at **Sushant University**, Gurugram.  
-I’m a curious **hacker**, dedicated **coder**, and an enthusiastic **esports lover** who thrives on solving challenges and exploring new technologies. 💻🎮  
+I'm **Kanishka**, a passionate **B.Tech student** at **Sushant University**, Gurugram.  
+I’m a curious **hacker**, dedicated **coder**, and an enthusiastic **esports lover** who thrives on solving challenges and exploring new technologies. 💻🎮
 
 ---
 
@@ -64,8 +64,8 @@ Here’s what I work with:
 
 <div align="center">
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide=prs,issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&langs_count=6)
+![Kanishka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kannu0203&show_icons=true&theme=radical&hide=prs,issues)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannu0203&layout=compact&theme=radical&langs_count=6)
 
 </div>
 
